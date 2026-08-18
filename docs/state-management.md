@@ -325,6 +325,6 @@ tela pra visitar.
 
 ## Ver também
 
-- [`test/features/chat/presentation/widgets/chat_input_bar_test.dart`](../test/features/chat/presentation/widgets/chat_input_bar_test.dart)
- , o teste de widget citado no ponto 3 acima, usando `MockCubit` (do
+- [`test/features/chat/presentation/widgets/chat_input_bar_test.dart`](../test/features/chat/presentation/widgets/chat_input_bar_test.dart):
+  o teste de widget citado no ponto 3 acima, usando `MockCubit` (do
   pacote `bloc_test`) + `BlocProvider.value`, sem tocar no GetIt.
